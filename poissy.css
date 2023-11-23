@@ -1,0 +1,47 @@
+body{
+    background-color:aliceblue;
+    font-family: Arial, Verdana, sans-serif;
+ }
+ header{
+      background-color: bisque;
+      width: 100%;
+      height: 60px;
+      margin-bottom: 40px;
+ }
+ main{
+      background-color: rgb(193, 83, 83);
+      width: 100%;
+      height: 1500px;        
+ }
+ section{
+      background-color:cadetblue; 
+      width: 70%;
+      height: 1000px;    
+      margin:auto;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      text-align: center;
+      
+      
+ 
+ }
+      article img{
+         width: 300px;
+         height: 400px; 
+         border-radius: 30px;
+         border:solid  black 5px;
+         margin-top: 30px;
+      }     cd poissy
+      
+ footer {
+     background-color:rgb(99, 63, 8);
+     padding: 40px;
+     border: 5px solid rgb(164, 179, 142);
+     width: auto;
+     height: 200px;
+     margin-top: 20px;
+     
+  
+ }
+ 
